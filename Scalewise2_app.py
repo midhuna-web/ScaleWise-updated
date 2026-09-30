@@ -1,5 +1,4 @@
-@@ -1,247 +1,678 @@
-# ============================================================
+# ===========================================================
 # STEP 6B — CREATE SCALEWISE DEPLOYMENT PACKAGE
 # SCALEWISE — AI COPILOT FOR SCALABLE CELL-CULTURE BIOPROCESS
 # STEP 6A — STREAMLIT APP SKELETON
